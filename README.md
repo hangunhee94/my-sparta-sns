@@ -1,6 +1,6 @@
-# :pushpin: Team Introduction
->나의 팀원을 소개합니다!    
->https://github.com/hangunhee94/team-introduction   
+# :pushpin: My Sparta Sns
+>나만의 미니 SNS 웹페이지    
+>https://github.com/hangunhee94/my-sparta-sns 
 
 </br>
 
